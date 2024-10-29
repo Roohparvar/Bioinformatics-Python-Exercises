@@ -9,8 +9,8 @@ This repository provides a set of exercises that introduce fundamental concepts 
 ## Structure
 
 The repository is organized into folders, each dedicated to a single exercise. Each folder includes:
-- A  **Python script ** for the specific exercise.
-- A  **README ** file with a detailed explanation of the exercise, including the problem description and instructions for solving it.
+- A  **Python script** for the specific exercise.
+- A  **README** file with a detailed explanation of the exercise, including the problem description and instructions for solving it.
 
 ## Exercises Overview
 

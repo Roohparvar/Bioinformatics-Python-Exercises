@@ -9,8 +9,8 @@ This repository provides a set of exercises that introduce fundamental concepts 
 ## Structure
 
 The repository is organized into folders, each dedicated to a single exercise. Each folder includes:
-- A  **Python script** for the specific exercise.
-- A  **README** file with a detailed explanation of the exercise, including the problem description and instructions for solving it.
+- A  **Python script ** for the specific exercise.
+- A  **README ** file with a detailed explanation of the exercise, including the problem description and instructions for solving it.
 
 ## Exercises Overview
 
@@ -18,6 +18,10 @@ The exercises cover a variety of topics and techniques commonly used in bioinfor
 - **DNA Analysis**: Techniques for analyzing DNA sequences.
 - **RNA Analysis**: Methods for studying RNA sequences.
 - **Protein Analysis**: Approaches to analyze protein sequences.
+- **Longest Common Substring**: Finding the longest common substring between sequences.
+- **Longest Common Subsequence**: Identifying the longest subsequence present in both sequences.
+- **Global Alignment**: Aligning sequences over their entire length.
+- **Local Alignment**: Finding regions of similarity within sequences.
 
 Each exercise is independent, allowing learners to tackle them one by one as they build their knowledge. For detailed explanations and problem descriptions, please refer to the `README.md` file within each exercise's folder.
 
